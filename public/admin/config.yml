@@ -1,12 +1,12 @@
 backend:
   name: github
-  repo: nearlylloyd/BUlawSoc
+  repo: UOB-LawSoc/BUlawSoc
   branch: main
-  base_url: https://decap-auth.lloydfalltrick12.workers.dev
+  base_url: https://lawsoc.lawsocbrighton.workers.dev
   auth_endpoint: auth
 
-site_url: https://nearlylloyd.github.io/BUlawSoc/
-display_url: https://nearlylloyd.github.io/BUlawSoc/
+site_url: https://uob-lawsoc.github.io/BUlawSoc/
+display_url: https://uob-lawsoc.github.io/BUlawSoc/
 logo_url: /BUlawSoc/icons.svg
 
 media_folder: public/newsletters
